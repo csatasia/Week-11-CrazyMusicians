@@ -1,0 +1,6 @@
+@Week_10_CrazyMusicians_HostAddress = http://localhost:5004
+
+GET {{Week_10_CrazyMusicians_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
